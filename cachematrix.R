@@ -5,7 +5,7 @@
 ## The following function creates a list object containing 4 functions:
 ## 1. set the value of the matrix whose inverse is to be found
 ## 2. get the matrix in 1.
-## 3. set the value if the inverse of the matrix 
+## 3. set the value of the inverse of the matrix 
 ## 4. get the value of the matrix inverse
 
 makeCacheMatrix <- function(x = matrix()) {
